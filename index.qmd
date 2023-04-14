@@ -1,0 +1,26 @@
+---
+title: "CCSS 2023"
+toc: false
+---
+
+![](/assets/images/uvm.jpeg){fig-align=center width=75%}
+
+Contagion on Complex Social Systems (CCSS) 2023 is an interdisciplinary workshop gathering world leaders and young researchers in topics related to modeling of contagion in social systems in order to promote and cross-fertilize various computational and modeling approaches.
+
+# Details
+When: August 14-16, 2023
+
+Location: University of Vermont (Workshop will take place in Innovation Hall)
+
+Type: Single track
+
+Tentative daily schedule: Morning session 9-12, lunch 12-2, Afternoon session 2-5
+
+Travel funding will be available for US-based non-local participants while funds last.
+
+# Invited Speakers
+
+Coming soon!
+
+# Funding
+National Science Foundation grant DMS-2309867

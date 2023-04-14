@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  
+
+website:
+  open-graph: true
+  title: "CCSS 2023"
+  site-url: https://ccss-conference.github.io
+  repo-url: https://github.com/ccss-conference/ccss-conference.github.io
+  favicon: assets/images/uvm.ico
+
+  navbar:
+    style: "floating"
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: signup.qmd
+        text: Apply!
+    search: true
+    pinned: true
+
+format:
+  html:
+    theme: spacelab
+    toc: true
+    smooth-scroll: true
+    html-math-method: katex
+    include-in-header:
+      - includes.html
+    footnotes-hover: false
+    code-fold: true
