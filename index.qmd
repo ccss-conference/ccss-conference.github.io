@@ -5,7 +5,7 @@ toc: false
 
 ![](/assets/images/uvm.jpeg){fig-align=center width=75%}
 
-Contagion on Complex Social Systems (CCSS) 2023 is an interdisciplinary workshop gathering world leaders and young researchers in topics related to modeling of contagion in social systems in order to promote and cross-fertilize various computational and modeling approaches.
+Contagion on Complex Social Systems (CCSS) 2023 is an interdisciplinary workshop gathering world leaders and young researchers in topics related to modeling of contagion in social systems in order to promote and cross-fertilize various computational and modeling approaches. We encourage researchers from all career stages to apply, particularly young researchers.
 
 # Details
 When: August 14-16, 2023
