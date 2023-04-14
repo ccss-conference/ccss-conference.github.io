@@ -19,7 +19,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: signup.qmd
+      - href: pages/signup.qmd
         text: Apply!
     search: true
     pinned: true
