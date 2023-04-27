@@ -10,7 +10,7 @@ Contagion on Complex Social Systems (CCSS) 2023 is an interdisciplinary workshop
 # Details
 When: August 14-16, 2023
 
-Location: University of Vermont (Workshop will take place in Innovation Hall)
+Location: University of Vermont (Workshop will take place in the first floor of Innovation Hall)
 
 Type: Single track
 
@@ -20,4 +20,7 @@ Travel funding will be available for US-based non-local participants while funds
 
 # Invited Speakers
 
-Coming soon!
+* [Sarah Nowak](https://sarahnowakphd.com/), University of Vermont
+* [C. Brandon Ogbunu](https://medium.com/ogplexus), Yale University
+
+More coming soon!
