@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ccss-conference.github.io/index.html</loc>
-    <lastmod>2023-05-23T12:50:55.067Z</lastmod>
+    <lastmod>2023-05-30T19:01:11.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ccss-conference.github.io/pages/details.html</loc>
+    <lastmod>2023-05-30T19:01:12.327Z</lastmod>
   </url>
   <url>
     <loc>https://ccss-conference.github.io/pages/signup.html</loc>
-    <lastmod>2023-05-23T12:50:55.699Z</lastmod>
+    <lastmod>2023-05-30T19:01:12.695Z</lastmod>
   </url>
 </urlset>
