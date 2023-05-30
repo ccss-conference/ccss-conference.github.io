@@ -37,3 +37,9 @@ Travel funding of up to $1,300 will be available for US-based, non-local partici
 * [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), CU Boulder
 * [jimi adams](https://jimiadams.github.io/), CU Denver
 * [Alice Schwarze](https://aliceschwarze.gitlab.io/), Dartmouth College
+
+::: {layout-ncol=2 layout-valign="top"}
+![](assets/images/vcsc.png){width=200px}
+
+![](assets/images/tgir.png){width=200px}
+:::
