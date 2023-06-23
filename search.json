@@ -9,14 +9,14 @@
   {
     "objectID": "pages/details.html",
     "href": "pages/details.html",
-    "title": "Details",
+    "title": "Travel Details",
     "section": "",
     "text": "Some helpful details as you plan your trip."
   },
   {
     "objectID": "pages/details.html#getting-there",
     "href": "pages/details.html#getting-there",
-    "title": "Details",
+    "title": "Travel Details",
     "section": "Getting there",
     "text": "Getting there\nThere are several transportation options for getting to Burlington.\n\nAir: The Burlington airport (BTV) is 2 miles from downtown Burlington and there is a bus from the airport to downtown Burlington.\nRail: The Amtrak Vermonter runs from Washington D.C. and Philadelphia to Essex Junction which is a 10 minute drive from Burlington (via the bus or a ride sharing service). The Amtrak Ethan Allen Express runs from NYC to downtown Burlington.\nBus: There are direct Greyhound and megabus trips from Boston to Burlington."
   },
@@ -26,5 +26,12 @@
     "title": "CCSS 2023",
     "section": "",
     "text": "Please sign up at this link. We will start reviewing applications June 9th on a rolling basis."
+  },
+  {
+    "objectID": "pages/workshop.html",
+    "href": "pages/workshop.html",
+    "title": "Workshop Resources",
+    "section": "",
+    "text": "Code of Conduct"
   }
 ]
