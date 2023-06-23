@@ -1,5 +1,5 @@
 ---
-title: "Details"
+title: "Travel Details"
 toc: false
 ---
 
@@ -15,4 +15,4 @@ There are several transportation options for getting to Burlington.
 
 # Accommodations
 
-We have negotiated a lower rate with one of the local hotels. Let us know if you are interested in booking this option and we will provide you with more details.
+We have negotiated a lower rate with the [Courtyard by Marriott](https://www.marriott.com/en-us/hotels/btvdt-courtyard-burlington-harbor/overview/). Let us know if you are interested in booking this option and we will provide you with more details.

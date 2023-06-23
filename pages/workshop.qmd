@@ -1,0 +1,6 @@
+---
+title: "Workshop Resources"
+toc: false
+---
+
+* [Code of Conduct](/assets/docs/code_of_conduct.pdf)

@@ -22,7 +22,9 @@ website:
       - href: pages/signup.qmd
         text: Apply!
       - href: pages/details.qmd
-        text: Details
+        text: Travel Details
+      - href: pages/workshop
+        text: Workshop Resources
     search: true
     pinned: true
 
