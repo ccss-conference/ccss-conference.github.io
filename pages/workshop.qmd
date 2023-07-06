@@ -3,4 +3,6 @@ title: "Workshop Resources"
 toc: false
 ---
 
+* [Tentative Schedule and List of Abstracts](/booklet/booklet.pdf)
+
 * [Code of Conduct](/assets/docs/code_of_conduct.pdf)
