@@ -12,7 +12,6 @@ site_libs
 # latex
 *.synctex.gz
 *.aux
-*.pdf
 *.out
 *.log
 *.toc
