@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ccss-conference.github.io/index.html</loc>
-    <lastmod>2023-06-23T12:15:19.078Z</lastmod>
+    <loc>https://ccss-conference.github.io/pages/workshop.html</loc>
+    <lastmod>2023-07-06T17:01:01.732Z</lastmod>
   </url>
   <url>
     <loc>https://ccss-conference.github.io/pages/details.html</loc>
-    <lastmod>2023-06-23T12:15:19.726Z</lastmod>
+    <lastmod>2023-07-06T17:01:01.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ccss-conference.github.io/index.html</loc>
+    <lastmod>2023-07-06T17:01:00.388Z</lastmod>
   </url>
   <url>
     <loc>https://ccss-conference.github.io/pages/signup.html</loc>
-    <lastmod>2023-06-23T12:15:20.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ccss-conference.github.io/pages/workshop.html</loc>
-    <lastmod>2023-06-23T12:15:20.298Z</lastmod>
+    <lastmod>2023-07-06T17:01:01.408Z</lastmod>
   </url>
 </urlset>
