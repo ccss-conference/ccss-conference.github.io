@@ -1,0 +1,10 @@
+TITLE
+Floquet Theory for Spreading Dynamics over Periodically Switching Networks
+AUTHOR
+Maisha Islam Sejunti
+AFFSHORT
+SUNY Buffalo, NY
+AFF
+State University of New York at Buffalo, Buffalo, NY
+ABS
+In many social, physical, and biological networks, their structure evolves over time with daily, weekly and/or annual cycles. For example, a college's class schedule is usually organized in weekly periodic cycles.  Thus motivated, we formulate and analyze a susceptible-infectious-susceptible (SIS) epidemic model over temporal networks with  periodically switching connections.  Using Floquet theory --- a framework that extends the theory of linear systems to the setting of time-varying periodic systems --- we characterize the epidemic threshold and growth/decay rates in terms of the Floquet exponent of a system's monodromy matrix. We further employ this framework to identify and study a Parrondo's paradox for  epidemic spreading, whereby a temporal network can have subcritical (epidemic decay) dynamics even if it seemingly appears to be super-critical (epidemic growth) at all instantaneous time (i.e., ignoring that the network is periodically switching).

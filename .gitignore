@@ -8,3 +8,11 @@ __pycache__
 *.md
 site_libs
 /index_files/
+
+# latex
+*.synctex.gz
+*.aux
+*.pdf
+*.out
+*.log
+*.toc

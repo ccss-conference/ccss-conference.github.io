@@ -1,0 +1,10 @@
+TITLE
+Sensitivity analysis of stochastic polynomials, and its application to epidemic forecasting and random graphs
+AUTHOR
+Mariah Boudreau
+AFFSHORT
+UVM, VT
+AFF
+University of Vermont, Burlington, VT
+ABS
+Probability generating functions (PGFs) provide an analytical and probabilistic description of random networks. In the context of emerging infectious diseases and their transmission trees, PGFs become a powerful tool for probabilistic forecasting that naturally accounts for the intrinsic stochasticity of disease transmission. However, transmission trees are incredibly noisy data as they either come from genomic sequencing with imperfect sampling or contact tracing in noisy environments. It is therefore critical to evaluate the importance of data quality for probabilistic forecasts made with PGFs.  This research explores the variation in final epidemic size for various degree distributions (i.e. distributions of secondary infections per case)  and associated parameters given different levels of added error. The objective is to characterize the sensitivity to noise of PGFs in different network conditions. Preliminary results show larger uncertainty when adding error to more homogeneous degree distributions, suggesting that the PGF framework might be better suited for diseases transmitted through direct contact rather than airborne infections, as the former tends to show more heterogeneous transmission patterns. Altogether, this project paves the way towards a noisy and probabilistic forecasting framework for emerging epidemics while taking into account confidence in data and a network’s noise sensitivity.

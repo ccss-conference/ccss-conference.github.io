@@ -1,0 +1,10 @@
+TITLE
+Peer Network Processes in Adolescents’ Health Lifestyles
+AUTHOR
+jimi adams
+AFFSHORT
+CU Denver, CO
+AFF
+University of Colorado Denver, Denver, CO
+ABS
+Combining theories of health lifestyles—interrelated health behaviors arising from group-based identities—with those of network and behavior change, we investigated network characteristics of health lifestyles and the role of influence and selection processes underlying these characteristics. We examined these questions in two high schools using longitudinal, complete friendship network data from the National Longitudinal Study of Adolescent to Adult Health. Latent class analyses characterized each school’s predominant health lifestyles using several health behavior domains. School-specific stochastic actor-based models evaluated the bidirectional relationship between friendship networks and health lifestyles. Predominant lifestyles remained stable within schools over time, even as individuals transitioned between lifestyles. Friends displayed greater similarity in health lifestyles than nonfriend dyads. Similarities resulted primarily from teens’ selection of friends with similar lifestyles but also from teens influencing their peers’ lifestyles. This study demonstrates the salience of health lifestyles for adolescent development and friendship networks.
