@@ -1,5 +1,5 @@
 TITLE
-TBD
+Breast cancer screening following guideline change: a complex social systems perspective
 AUTHOR
 Sarah Nowak
 AFFSHORT
@@ -7,4 +7,4 @@ UVM, VT
 AFF
 University of Vermont, Burlington, VT
 ABS
-TBD
+In 2009, the U.S. Preventive Services Task Force changed its breast cancer screening guidelines to recommend that routine screening start later (at age 50 rather than at 40), and concluded that there was insufficient evidence to continue screening past age 74. Screening rates were initially slow to change after the changes to guidelines. In this talk, I will describe empirical work estimating patient and provider social network influences on screening recommendations, and results from an agent-based model that was used to predict potential unintended consequences of guideline changes. Finally, I will present recent work empirically investigating these unintended consequences.
