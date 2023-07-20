@@ -1,5 +1,5 @@
 TITLE
-TBD
+The force of infection-inequality: From models of indirect infection, to the social determinants of health
 AUTHOR
 C. Brandon Ogbunu
 AFFSHORT
@@ -7,4 +7,4 @@ Yale, CT
 AFF
 Yale University, New Haven, CT
 ABS
-TBD
+Mathematical epidemiology has served a central role in the efflorescence of the study of how infectious diseases manifest at the population level. Despite their importance, their assumptions–mass action interactions and homogenous populations–are poorly equipped for appreciating how structural violence manifests in differences in the dynamics of infectious disease. Specifically, most of mathematical epidemiology is constructed to focus on differences in host behaviors, or biological differences in pathogen life history. Here I build on prior efforts to infuse a grammar of health inequalities into mathematical epidemiology. I formalize this discussion into mathematical terms, coining the term “Force of Infection-Inequality,” which is a modification of the force of infection property, a classical metric in mathematical epidemiology.
