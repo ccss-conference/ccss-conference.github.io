@@ -1,0 +1,10 @@
+TITLE
+None
+AUTHOR
+Will Thompson
+AFFSHORT
+UVM, VT
+AFF
+University of Vermont, Burlington, VT
+ABS
+We study the emergence of polarization in social groups using voter models on higher order networks. We consider the original linear voter model as well as several non-linear variations. We investigate the limiting behavior in time of these models to determine the existence of "polarized states", stationary states which contain a mix of agent opinions. We employ approximate master equations (AMES) to analyze the dynamics of the models on network and derive a series of analytical results concerning the important role a heterogeneous degree distribution plays in the emergence of polarization. 

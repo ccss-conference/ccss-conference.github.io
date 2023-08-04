@@ -1,5 +1,5 @@
 TITLE
-TBD
+How social learning and cultural evolution can be of use in complexity science
 AUTHOR
 Tim Waring
 AFFSHORT
@@ -7,4 +7,4 @@ UMaine, ME
 AFF
 University of Maine, Orono, ME
 ABS
-TBD
+Complexity science is a wide-ranging theoretical enterprise which spans social, biological and physical phenomena at all scales and incorporates a variety of technical methods such as evolutionary computation, chaotic dynamics, networks, contagion and agent simulation. Complexity science has not generally absorbed theory and findings from the field of cultural evolution. The new science of cultural evolution encompases both human and non-human culture from a mechanistic perspective in which pieces of culture are shared, taught and learned socially between individuals, and culture as a whole constitutes a second mechanism of inheritance. I argue that the two fields are extremely complementary and consilient, and that complexity science can easily absorb the theory and findings of cultural evolution. I provide an overview of some of the mechanisms and models that make cultural evolutionary theory useful for complexity theorists.
