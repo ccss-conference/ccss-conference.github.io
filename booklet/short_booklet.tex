@@ -1,0 +1,87 @@
+%======================================================
+% This file is part of
+% "AMCOS_booklet"
+% Version 1.1 (04/07/2019)
+% A LaTeX template for conference books of abstracts
+%
+% This template is available at:
+% https://github.com/maximelucas/AMCOS_booklet
+%
+% License: GNU General Public License v3.0
+%
+% Authors:
+% Maxime Lucas (ml.maximelucas@gmail.com)
+% Pau Clusella
+%=======================================================
+
+\documentclass[openany, parskip=full, 12pt, a4]{scrbook}
+\usepackage[margin=1in]{geometry}
+
+\input{preamble}
+\input{preamble_booklet}
+
+\begin{document}
+
+% COVER PAGE
+%--------------------------------------------------------------------
+\includepdf{images/cover.pdf}	% our cover was produced with canva.com
+	
+	
+% BLANK PAGE
+%---------------------------------------------------------------------
+\mbox{}
+\thispagestyle{empty}
+\vfill
+\begin{center}
+The open-source \LaTeX{} template, \verb"AMCOS_booklet", used to generate this booklet is available at \url{https://github.com/maximelucas/AMCOS\_booklet}
+\end{center}
+
+\newpage
+
+% TABLE OF CONTENTS 
+%---------------------------------------------------------------------
+\tableofcontents
+
+% ABOUT
+%---------------------------------------------------------------------
+\chapter{About}
+
+\input{about}
+
+% TIMETABLE 
+%---------------------------------------------------------------------
+\chapter{Timetable}
+
+CT: Contributed Talk, IT: Invited Talk.
+\newpage
+\input{timetable.tex}
+
+
+% % LIST OF PARTICIPANTS
+% %------------------------------------------------------------------
+\chapter{List of Participants}
+ 
+\input{list_of_participants}
+ 
+% USEFUL INFO
+%------------------------------------------------------------------
+\chapter{Useful Information}
+
+\input{useful_info}
+
+% % SPONSORS
+% %------------------------------------------------------------------
+\chapter{Sponsors and Partners}
+
+\input{logos.tex}
+
+\newpage
+
+% % BACK PAGE
+%-----------------------------------------------------------------
+
+\pagecolor{myblue}
+\thispagestyle{empty}
+\mbox{}
+
+\end{document}
