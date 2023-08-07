@@ -1,0 +1,10 @@
+TITLE
+Moving Beyond Diffusion to Communication in Models of Information Spread
+AUTHOR
+Sagar Kumar
+AFFSHORT
+Northeastern, MA
+AFF
+Northeastern University, Boston, MA
+ABS
+There seems to be a broadly accepted and championed notion that misinformation is analogous to an infectious disease. The position that information spreads similarly to a virus in a population is at the heart of broad swaths of behavioral science, including models of intervention acceptance and optimal advertising. While useful in some contexts, dynamical models of information diffusion built on this assumption experimentally have extremely limited predictive power. A moment’s thought elucidates the wrought oversimplification in this model–a virus spreads among hosts approximately as a replication or diffusion process, while "information" spreads as stories among interlocutors as a communication process. This work thus aims at paving a way forward towards more accurate, mechanistic, experiment-driven models of information spread. We begin by exposing the underlying suppositions of these disease-spreading models of information diffusion and consider their shortcomings in the literature and through toy models. From this basis, we are able to disentangle "information" as it was described by Shannon from the information described in diffusion models and from that which spreads qua communication. Finally, we synthesize these key considerations in the dynamics and characterization of information spread to posit a model-building framework which is grounded in a systems approach to communication, and which emphasizes the importance of novel measurement and representation techniques alongside ethnographic, pragmatic, and rhetorical analysis.

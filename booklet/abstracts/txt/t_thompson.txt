@@ -1,5 +1,5 @@
 TITLE
-None
+Modeling polarization with voter models on higher order networks
 AUTHOR
 Will Thompson
 AFFSHORT

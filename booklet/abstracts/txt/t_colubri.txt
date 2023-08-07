@@ -1,5 +1,5 @@
 TITLE
-None
+Operation Outbreak: a model system for experimental validation of outbreak reconstruction and prediction
 AUTHOR
 Andrés Colubri
 AFFSHORT
