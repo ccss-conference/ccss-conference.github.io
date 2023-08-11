@@ -1,0 +1,10 @@
+TITLE
+Probability generating functions for epidemics on metapopulation networks
+AUTHOR
+Guillaume St-Onge
+AFFSHORT
+Northeastern, MA
+AFF
+Northeastern University, Boston, MA
+ABS
+Models of contagion on metapopulation networks are effective at assessing the cryptic transmission phase at the beginning of an outbreak when data are scarce and the epidemic is driven by long-range mobility patterns. However, metapopulation frameworks either describe the average state of the system or rely on costly large-scale simulations, which take time and resources to deploy during emergent disease outbreaks. Here, we provide a flexible and computationally efficient alternative to describing the early phase of an emerging outbreak by leveraging probability generating functions (PGFs). We map the system of mobile agents (and potential carriers of diseases) to a multitype branching process (Fig. 1A), from which we can probe full probability distributions. To give a sense of scale, we get similar results to stochastic simulations in a matter of seconds, as opposed to hours of computation on supercomputers. We are able to estimate important quantities, like the current (and future) state of an outbreak (Fig. 1B), and to perform exact Bayesian inference, like in Fig. 1C where we show a posterior distribution on the basic reproduction number and the time of onset of an epidemic. Other important applications include inferring the location of the source of an outbreak, defining more constrained prior distributions for large-scale simulations, and performing an early assessment of changes in the mobility of individuals. Altogether, our approach provides timely situational awareness when the spreading of concerning diseases is detected and we plan to leverage its computational advantage to help design more robust global surveillance systems. 
