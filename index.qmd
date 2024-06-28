@@ -20,7 +20,7 @@ Tentative daily schedule: Morning session 9-12, lunch 12-2, Afternoon session 2-
 
 # Funding
 
-All travel funding has been committed at this point.
+Travel for early career US-based scientists is generously provided by a [National Science Foundation](https://nsf.gov/) award (DMS 2309867).
 
 # Confirmed Invited Speakers
 
@@ -42,6 +42,6 @@ All travel funding has been committed at this point.
 
 ::: {layout-ncol=2 layout-valign="top"}
 ![](assets/images/vcsc.png){width=200px}
-
+![](assets/images/nsf.png){width=200px}
 ![](assets/images/tgir.png){width=200px}
 :::
