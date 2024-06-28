@@ -40,7 +40,7 @@ Travel for early career US-based scientists is generously provided by a [Nationa
 * [jimi adams](https://jimiadams.github.io/), CU Denver
 * [Alice Schwarze](https://aliceschwarze.gitlab.io/), Dartmouth College
 
-::: {layout-ncol=2 layout-valign="top"}
+::: {layout-ncol=3 layout-valign="top"}
 ![](assets/images/vcsc.png){width=200px}
 ![](assets/images/nsf.png){width=200px}
 ![](assets/images/tgir.png){width=200px}
